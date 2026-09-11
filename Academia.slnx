@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Academia.Mvc/">
+    <Project Path="Academia.Mvc/Academia.mvc.csproj" />
+  </Folder>
+  <Project Path="Academia.Api/Academia.Api.csproj" />
+</Solution>
